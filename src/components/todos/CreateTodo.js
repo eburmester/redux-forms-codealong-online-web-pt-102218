@@ -12,7 +12,7 @@ class CreateTodo extends Component {
     this.setState({
         text: event.target.value
     });
-};
+}
    
   render(){
     return(
